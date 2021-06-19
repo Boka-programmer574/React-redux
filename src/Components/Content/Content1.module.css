@@ -1,0 +1,4 @@
+.cont1 {
+    grid-area: content;
+    background-color: cornflowerblue;
+}

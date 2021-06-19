@@ -1,0 +1,10 @@
+.head {
+    grid-area: header;
+    background-color: aqua;
+    
+}
+.item {
+    text-align: right;
+    color: lightcoral;
+    padding-right: 7px;
+}
